@@ -1,0 +1,16 @@
+{
+  "name": "event-registration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getForm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@oneblink/cli": "^1.1.0",
+    "@oneblink/sdk": "^0.19.0",
+    "axios": "^0.27.2"
+  }
+}
